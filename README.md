@@ -21,7 +21,7 @@ Trzy paragraf
 #include <iostream>
 
 int main() {
-    std::cout << "Hello World!";
+    std::cout << "Shut up meg";
     return 0;
 }
 ```
