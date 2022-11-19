@@ -7,8 +7,8 @@ Trzy paragraf
 *Ten tekst jest italics*
 > Zǎoshang hǎo zhōngguó xiànzài wǒ yǒu BING CHILLING 🥶🍦 wǒ hěn xǐhuān BING CHILLING 🥶🍦 dànshì sùdù yǔ jīqíng 9 bǐ BING CHILLING 🥶🍦 
 1. Lista numerczyna
-2\. Lista numeryczna nadal
-3\. Still lista numeryczna
+2. Lista numeryczna nadal
+3. Still lista numeryczna
 4. Listaaaa numeyczna
 5. Nie jestem liczba numeryczna
 6. numer 5 bejtuje
